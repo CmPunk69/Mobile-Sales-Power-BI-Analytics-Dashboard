@@ -1,6 +1,7 @@
 # Mobile Sales Power-BI Analytics Dashboard
 
 Welcome to the Mobile Sales Power-BI-Analytics-Dashboard repository! 🚀
+
 This project demonstrates an interactive business intelligence and analytics solution built with Microsoft Power BI. The dashboard transforms mobile sales transaction data into actionable insights covering sales performance, product trends, customer ratings, payment methods, and geographic performance.
 
 ---
